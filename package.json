@@ -6,7 +6,7 @@
     "start": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "Maricela Velasco",
+  "author": "Ana Valencia",
   "license": "ISC",
   "description": "",
   "dependencies": {
