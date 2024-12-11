@@ -2,7 +2,7 @@ const express = require('express'); //da inicio al servidor evitando varias conf
 const mongoose = require('mongoose');
 const usuarioRoutes = require('../routes/usuario');
 
-const app=express(); //settings
+const app=express(); 
 
 app.use(express.json());
 app.use("/api",usuarioRoutes);
